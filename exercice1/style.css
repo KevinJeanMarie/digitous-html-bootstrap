@@ -1,4 +1,49 @@
-p
- {
-    background-color: black;
- }
+.first nav
+{
+   background-color: yellow;
+   padding-top: 2%;
+}
+
+.second nav
+{
+   background-color: blue;
+   padding-top: 2%;
+}
+
+.troisieme nav
+{
+   background-color: red;
+   padding-top: 2%;
+}
+
+.quatrieme nav 
+{
+   background-color: green;
+   padding-top: 2%;
+}
+
+.cinquieme nav 
+
+{
+   background-color: grey;
+   padding-top: 2%;
+}
+
+.sixieme nav 
+
+{
+   background-color: yellow;
+   padding-top: 2%;
+}
+
+.septieme nav
+{
+   background-color: blue;
+   padding-top: 2%;
+}
+
+.huitieme nav
+{
+   background-color: red;
+   padding-top: 2%;
+}
