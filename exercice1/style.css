@@ -1,24 +1,47 @@
-.first nav
+.first
+{
+   margin-bottom: 5%;
+}
+
+.first a
 {
    background-color: yellow;
-   padding-top: 2%;
+   padding-bottom: 2%;
+   padding-right: 203px;
+   padding-left: 219px;
    margin-top: 1%;
+   justify-content: space-between;
+   color:yellow
 
 }
 
-
-.second nav
+.second a
 {
    background-color: blue;
    padding-top: 2%;
-   margin-top: 1%;
+   margin-top: 2%;
+   margin-left: 0%;
+   padding-right: 103px;
+   padding-left: 84px;
+   justify-content: space-between;
+   color: blue;
+   
+
 }
 
-.troisieme nav
+.troisieme
+{
+   margin-top: 3%;
+   
+   
+}
+
+.troisieme a
 {
    background-color: red;
    padding-top: 2%;
-   margin-top: 1%;
+   justify-content: space-between;
+   
 }
 
 .quatrieme nav 
@@ -32,7 +55,7 @@
 
 {
    background-color: grey;
-   padding-top: 2%;
+   padding-top: 4%;
    margin-top: 1%;
 }
 
@@ -40,7 +63,7 @@
 
 {
    background-color: yellow;
-   padding-top: 2%;
+   padding-top: 4%;
    margin-left: 40%;
    margin-top: 1%;
 }
@@ -48,7 +71,7 @@
 .septieme nav
 {
    background-color: blue;
-   padding-top: 2%;
+   padding-top: 4%;
    margin-top: 1%;
    margin-left: 30%;
    margin-right: 30%;
